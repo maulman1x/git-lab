@@ -2,4 +2,4 @@
 GitHub username: maulman1x
 CS2400, section 107
 
-hello!
+git commit -m "hello!"
